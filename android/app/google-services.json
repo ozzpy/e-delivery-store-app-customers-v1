@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168749345974",
+    "project_id": "azdelivery-app-br",
+    "storage_bucket": "azdelivery-app-br.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168749345974:android:b443ce0b3ee4384d524a17",
+        "android_client_info": {
+          "package_name": "app.azdelivery.app.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168749345974-r8mn96evpnnitcpadf13dg5vkuo1t02n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC09aWulh6pV4jr41Uhlrm3VjGm0hz6bUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168749345974-r8mn96evpnnitcpadf13dg5vkuo1t02n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
